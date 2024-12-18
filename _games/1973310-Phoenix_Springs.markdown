@@ -113,5 +113,8 @@ support_info:
   email: hi@calligramstudio.com
 tags:
 - adventure
+award_category: Self-Published
+award_category_subtitle: Games Funded With Passion, Grit, and Instant Noodles
+award: The "Are Games Art? Yes, of course" Award
 ---
 

@@ -134,5 +134,8 @@ support_info:
 tags:
 - rpg
 - strategy
+award_category: Upcoming Games
+award_category_subtitle: Games You'll Be Playing Eventually (We Hope)
+award: Best Froggo Award
 ---
 

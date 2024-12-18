@@ -140,5 +140,8 @@ support_info:
   email: m.kaminski@mythicowl.com
 tags:
 - action
+award_category: Hidden Gems
+award_category_subtitle: Games We're Totally Not Hyping (But Should Be)
+award: The SEEMINGLY PEACEFUL Award
 ---
 

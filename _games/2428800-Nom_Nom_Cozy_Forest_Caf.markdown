@@ -131,5 +131,8 @@ support_info:
 tags:
 - casual
 - simulation
+award_category: Self-Published
+award_category_subtitle: Games Funded With Passion, Grit, and Instant Noodles
+award: Most Adorable Café Simulator
 ---
 

@@ -165,5 +165,8 @@ tags:
 - adventure
 - rpg
 - strategy
+award_category: Upcoming Games
+award_category_subtitle: Games You'll Be Playing Eventually (We Hope)
+award: Autobattler With Most Player Expression Award
 ---
 

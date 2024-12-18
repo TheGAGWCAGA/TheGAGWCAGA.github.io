@@ -163,5 +163,8 @@ support_info:
 tags:
 - action
 - adventure
+award_category: Upcoming Games
+award_category_subtitle: Games You'll Be Playing Eventually (We Hope)
+award: Worst Game To Play Before Bed Award
 ---
 

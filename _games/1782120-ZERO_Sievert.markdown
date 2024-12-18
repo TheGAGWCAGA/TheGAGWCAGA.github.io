@@ -152,5 +152,8 @@ support_info:
 tags:
 - action
 - adventure
+award_category: Released In 2024
+award_category_subtitle: Games That Actually Made It Out This Year
+award: The Never Enough Inventory Space Award
 ---
 

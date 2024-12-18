@@ -171,5 +171,8 @@ support_info:
   email: hello@goldfirestudios.com
 tags:
 - adventure
+award_category: Self-Published
+award_category_subtitle: Games Funded With Passion, Grit, and Instant Noodles
+award: Most Likely To Make You Appreciate Not Living In Alaska
 ---
 

@@ -221,5 +221,8 @@ tags:
 - action
 - adventure
 - casual
+award_category: Hidden Gems
+award_category_subtitle: Games We're Totally Not Hyping (But Should Be)
+award: Makes You Love the Canadian Wilderness Award
 ---
 

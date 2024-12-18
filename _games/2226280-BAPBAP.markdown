@@ -120,5 +120,8 @@ support_info:
 tags:
 - action
 - strategy
+award_category: Demo Is Out!
+award_category_subtitle: Games That Just Became Your Weekend Plans
+award: Game Most Likely to Reignite Your MOBA Addiction
 ---
 

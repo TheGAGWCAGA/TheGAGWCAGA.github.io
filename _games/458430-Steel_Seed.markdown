@@ -132,5 +132,8 @@ support_info:
 tags:
 - action
 - adventure
+award_category: Demo Is Out!
+award_category_subtitle: Games That Just Became Your Weekend Plans
+award: Best Game for People Frustrated with AI
 ---
 

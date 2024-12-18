@@ -157,5 +157,8 @@ support_info:
 tags:
 - action
 - adventure
+award_category: Hidden Gems
+award_category_subtitle: Games We're Totally Not Hyping (But Should Be)
+award: Best Game for Megaman Fans
 ---
 

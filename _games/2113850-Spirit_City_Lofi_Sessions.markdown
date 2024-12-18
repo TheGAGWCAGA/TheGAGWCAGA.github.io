@@ -189,5 +189,8 @@ support_info:
 tags:
 - casual
 - simulation
+award_category: Most Innovative
+award_category_subtitle: Games That Made Us Say 'Wait, What?'
+award: Productivity Game That Helped Us Create a Showcase in 3 Weeks Award
 ---
 

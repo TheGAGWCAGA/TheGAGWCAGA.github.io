@@ -226,5 +226,8 @@ support_info:
 tags:
 - simulation
 - strategy
+award_category: Self-Published
+award_category_subtitle: Games Funded With Passion, Grit, and Instant Noodles
+award: Most Corrupt Business Sim Award
 ---
 

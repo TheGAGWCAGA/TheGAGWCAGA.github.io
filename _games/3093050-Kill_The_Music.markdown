@@ -108,5 +108,8 @@ support_info:
   email: killthemusichelp@gmail.com
 tags:
 - action
+award_category: Super Exclusive Stuff
+award_category_subtitle: Trailers that have not yet been released anywhere else!
+award: Most Powerful Guitar Award
 ---
 

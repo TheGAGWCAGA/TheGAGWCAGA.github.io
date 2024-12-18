@@ -160,5 +160,8 @@ support_info:
 tags:
 - adventure
 - strategy
+award_category: Self-Published
+award_category_subtitle: Games Funded With Passion, Grit, and Instant Noodles
+award: The "What the F* is that" Award
 ---
 

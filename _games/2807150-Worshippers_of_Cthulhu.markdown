@@ -280,5 +280,8 @@ support_info:
 tags:
 - simulation
 - strategy
+award_category: Super Exclusive Stuff
+award_category_subtitle: Trailers that have not yet been released anywhere else!
+award: Most Likely to Turn You Into a Cult Leader
 ---
 

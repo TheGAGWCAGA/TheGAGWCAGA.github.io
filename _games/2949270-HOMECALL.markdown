@@ -145,5 +145,8 @@ support_info:
   email: contact@lequinoxe.net
 tags:
 - adventure
+award_category: Hidden Gems
+award_category_subtitle: Games We're Totally Not Hyping (But Should Be)
+award: The PS1 Nostalgia Award
 ---
 

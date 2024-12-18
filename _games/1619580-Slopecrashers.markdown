@@ -153,5 +153,8 @@ support_info:
 tags:
 - action
 - casual
+award_category: Self-Published
+award_category_subtitle: Games Funded With Passion, Grit, and Instant Noodles
+award: Best Frying Pan Snowboarding Game
 ---
 

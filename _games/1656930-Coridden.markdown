@@ -193,5 +193,8 @@ tags:
 - action
 - adventure
 - rpg
+award_category: Demo Is Out!
+award_category_subtitle: Games That Just Became Your Weekend Plans
+award: Best Game for Aspiring Shapeshifters
 ---
 

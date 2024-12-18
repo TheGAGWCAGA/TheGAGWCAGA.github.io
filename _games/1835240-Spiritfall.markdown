@@ -140,5 +140,8 @@ support_info:
   email: contact@gentlegiantgames.com
 tags:
 - action
+award_category: Self-Published
+award_category_subtitle: Games Funded With Passion, Grit, and Instant Noodles
+award: Most Combo-Tastic Game Award
 ---
 

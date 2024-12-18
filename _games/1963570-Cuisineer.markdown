@@ -221,5 +221,8 @@ tags:
 - casual
 - rpg
 - simulation
+award_category: Super Exclusive Stuff
+award_category_subtitle: Trailers that have not yet been released anywhere else!
+award: The Cutest Take on Capitalism Award
 ---
 

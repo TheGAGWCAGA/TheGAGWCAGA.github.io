@@ -162,5 +162,8 @@ support_info:
   email: andrea@joystickventures.com
 tags:
 - strategy
+award_category: Released In 2024
+award_category_subtitle: Games That Actually Made It Out This Year
+award: Most Likely to Be in This Show Because of Nepotism
 ---
 

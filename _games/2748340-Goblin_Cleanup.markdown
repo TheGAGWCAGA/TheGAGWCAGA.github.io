@@ -174,5 +174,8 @@ support_info:
 tags:
 - casual
 - simulation
+award_category: Most Innovative
+award_category_subtitle: Games That Made Us Say 'Wait, What?'
+award: Best Game to Avoid Your Cleaning Chores
 ---
 

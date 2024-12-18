@@ -157,5 +157,8 @@ tags:
 - adventure
 - casual
 - simulation
+award_category: Hidden Gems
+award_category_subtitle: Games We're Totally Not Hyping (But Should Be)
+award: Best Food Truck Cooking Game
 ---
 

@@ -163,5 +163,8 @@ support_info:
 tags:
 - rpg
 - strategy
+award_category: Most Innovative
+award_category_subtitle: Games That Made Us Say 'Wait, What?'
+award: Best Billiard Battler
 ---
 

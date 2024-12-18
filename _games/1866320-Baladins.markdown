@@ -183,5 +183,8 @@ support_info:
 tags:
 - adventure
 - rpg
+award_category: Most Innovative
+award_category_subtitle: Games That Made Us Say 'Wait, What?'
+award: Best Co-Op TTRPG
 ---
 

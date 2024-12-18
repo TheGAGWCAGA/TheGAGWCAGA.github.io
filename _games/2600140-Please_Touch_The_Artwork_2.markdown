@@ -148,5 +148,8 @@ support_info:
 tags:
 - adventure
 - casual
+award_category: Self-Published
+award_category_subtitle: Games Funded With Passion, Grit, and Instant Noodles
+award: Most Likely To Get You Kicked Out of The Museum
 ---
 

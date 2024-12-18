@@ -201,5 +201,8 @@ tags:
 - adventure
 - casual
 - rpg
+award_category: Most Innovative
+award_category_subtitle: Games That Made Us Say 'Wait, What?'
+award: Most Likely to Make You Quit Your Job and Become an Artist
 ---
 

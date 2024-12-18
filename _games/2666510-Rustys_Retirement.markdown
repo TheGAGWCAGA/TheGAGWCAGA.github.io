@@ -131,5 +131,8 @@ tags:
 - casual
 - simulation
 - strategy
+award_category: Most Innovative
+award_category_subtitle: Games That Made Us Say 'Wait, What?'
+award: Best Game for Multitaskers
 ---
 

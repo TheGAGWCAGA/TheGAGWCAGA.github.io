@@ -163,5 +163,8 @@ support_info:
   email: support@manavoid.com
 tags:
 - strategy
+award_category: Released In 2024
+award_category_subtitle: Games That Actually Made It Out This Year
+award: Best Game for When You Wanna Build a City and a Deck at the Same Time
 ---
 

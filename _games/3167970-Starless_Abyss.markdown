@@ -97,5 +97,8 @@ support_info:
   email: info@nomorerobots.io
 tags:
 - strategy
+award_category: Upcoming Games
+award_category_subtitle: Games You'll Be Playing Eventually (We Hope)
+award: Best Crossover Between Lovecraftian Horror and Sci-Fi
 ---
 

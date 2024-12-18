@@ -132,5 +132,8 @@ support_info:
 tags:
 - simulation
 - strategy
+award_category: Released In 2024
+award_category_subtitle: Games That Actually Made It Out This Year
+award: Best Game to Inspire Your Inner Environmentalist
 ---
 

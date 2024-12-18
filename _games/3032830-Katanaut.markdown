@@ -156,5 +156,8 @@ support_info:
   email: ''
 tags:
 - action
+award_category: Hidden Gems
+award_category_subtitle: Games We're Totally Not Hyping (But Should Be)
+award: Best Sci-Fi Eldritch Slasher
 ---
 

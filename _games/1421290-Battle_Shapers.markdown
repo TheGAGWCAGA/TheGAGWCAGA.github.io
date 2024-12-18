@@ -158,5 +158,8 @@ support_info:
   email: support@metricempire.com
 tags:
 - action
+award_category: Released In 2024
+award_category_subtitle: Games That Actually Made It Out This Year
+award: Most Badass Robot Design
 ---
 

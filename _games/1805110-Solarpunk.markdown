@@ -148,5 +148,8 @@ support_info:
 tags:
 - adventure
 - simulation
+award_category: Upcoming Games
+award_category_subtitle: Games You'll Be Playing Eventually (We Hope)
+award: Gives Us Hope for the Future Award
 ---
 

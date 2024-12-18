@@ -133,5 +133,8 @@ support_info:
   email: support@boxdragon.se
 tags:
 - strategy
+award_category: Upcoming Games
+award_category_subtitle: Games You'll Be Playing Eventually (We Hope)
+award: Most Historically Accurate Medieval Siege Defense Simulator
 ---
 

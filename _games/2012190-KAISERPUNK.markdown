@@ -207,5 +207,8 @@ support_info:
 tags:
 - simulation
 - strategy
+award_category: Upcoming Games
+award_category_subtitle: Games You'll Be Playing Eventually (We Hope)
+award: Best Alt. History Strategy Game
 ---
 

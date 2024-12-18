@@ -233,5 +233,8 @@ tags:
 - action
 - simulation
 - strategy
+award_category: Demo Is Out!
+award_category_subtitle: Games That Just Became Your Weekend Plans
+award: Most Cinematic Zombie Game
 ---
 

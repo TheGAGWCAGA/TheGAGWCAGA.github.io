@@ -191,5 +191,8 @@ support_info:
 tags:
 - adventure
 - casual
+award_category: Released In 2024
+award_category_subtitle: Games That Actually Made It Out This Year
+award: Gooderest Boy Award
 ---
 

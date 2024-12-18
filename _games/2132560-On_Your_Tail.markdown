@@ -144,5 +144,8 @@ tags:
 - adventure
 - rpg
 - simulation
+award_category: Super Exclusive Stuff
+award_category_subtitle: Trailers that have not yet been released anywhere else!
+award: The "Damn I Want to Live There" Award
 ---
 

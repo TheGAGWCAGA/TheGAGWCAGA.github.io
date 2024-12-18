@@ -145,5 +145,8 @@ tags:
 - action
 - rpg
 - strategy
+award_category: Upcoming Games
+award_category_subtitle: Games You'll Be Playing Eventually (We Hope)
+award: Most Likely to Be Furry Fanfic Fuel
 ---
 

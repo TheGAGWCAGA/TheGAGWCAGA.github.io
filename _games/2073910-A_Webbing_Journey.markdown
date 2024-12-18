@@ -188,5 +188,8 @@ support_info:
 tags:
 - adventure
 - simulation
+award_category: Most Innovative
+award_category_subtitle: Games That Made Us Say 'Wait, What?'
+award: Best Indie Web Slinger
 ---
 

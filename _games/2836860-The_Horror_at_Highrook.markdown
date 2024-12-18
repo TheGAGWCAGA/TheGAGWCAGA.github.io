@@ -127,5 +127,8 @@ support_info:
 tags:
 - rpg
 - simulation
+award_category: Demo Is Out!
+award_category_subtitle: Games That Just Became Your Weekend Plans
+award: Best Way to Learn How to Banish Evil Spirits
 ---
 

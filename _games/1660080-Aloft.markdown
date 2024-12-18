@@ -287,5 +287,8 @@ tags:
 - adventure
 - casual
 - simulation
+award_category: Upcoming Games
+award_category_subtitle: Games You'll Be Playing Eventually (We Hope)
+award: Best Game for Airbender Wannabes
 ---
 

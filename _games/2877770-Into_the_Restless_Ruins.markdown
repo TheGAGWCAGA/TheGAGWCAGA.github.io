@@ -140,5 +140,8 @@ support_info:
   email: support@ant-workshop.com
 tags:
 - strategy
+award_category: Super Exclusive Stuff
+award_category_subtitle: Trailers that have not yet been released anywhere else!
+award: Best Roguelike Dungeonbuilder
 ---
 

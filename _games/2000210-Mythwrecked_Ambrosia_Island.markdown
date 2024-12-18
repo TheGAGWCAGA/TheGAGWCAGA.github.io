@@ -186,5 +186,8 @@ support_info:
 tags:
 - adventure
 - casual
+award_category: Hidden Gems
+award_category_subtitle: Games We're Totally Not Hyping (But Should Be)
+award: Sassiest Gods Award
 ---
 

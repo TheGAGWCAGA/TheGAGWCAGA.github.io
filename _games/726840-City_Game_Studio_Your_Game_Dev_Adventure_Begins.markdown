@@ -237,5 +237,8 @@ tags:
 - casual
 - simulation
 - strategy
+award_category: Most Innovative
+award_category_subtitle: Games That Made Us Say 'Wait, What?'
+award: Most Likely to Give Devs Unrealistic Expectations
 ---
 

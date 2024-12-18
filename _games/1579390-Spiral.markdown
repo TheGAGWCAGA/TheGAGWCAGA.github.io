@@ -208,5 +208,8 @@ support_info:
   email: info@folklore.games
 tags:
 - adventure
+award_category: Hidden Gems
+award_category_subtitle: Games We're Totally Not Hyping (But Should Be)
+award: The "We Absolutely Didn't Cry" Award
 ---
 

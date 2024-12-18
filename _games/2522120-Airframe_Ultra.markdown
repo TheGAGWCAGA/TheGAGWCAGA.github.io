@@ -132,5 +132,8 @@ support_info:
   email: support@akuparagames.com
 tags:
 - action
+award_category: Upcoming Games
+award_category_subtitle: Games You'll Be Playing Eventually (We Hope)
+award: Best Helmet Safety PSA
 ---
 
