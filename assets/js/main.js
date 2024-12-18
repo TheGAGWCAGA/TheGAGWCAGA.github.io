@@ -217,7 +217,10 @@
 			for (var i=0; i<data.length; i++) {
 				data[i]['rnd'] = Math.random();
 				if (data[i]['featured']) {
-					data[i]['rnd'] *= 1.5;
+					data[i]['rnd'] *= 1.3;
+				}
+				if (data[i]['award']) {
+					data[i]['rnd'] *= 1.10
 				}
 			}
 			data.sort(function(a,b) { return b['rnd'] - a['rnd'] });
@@ -228,7 +231,12 @@
 				source.find("a.title").html(data[i]['title']);
 				source.find("img").attr("src",data[i]['image']);
 				source.find("img").attr("alt",data[i]['title']);
-				source.find("p").html(data[i]['description']);
+				if (data[i]['award']) {
+					source.find("p.award").html('<b>🏆&nbsp;' + data[i]['award'] + '&nbsp;🏆</b>');
+				} else {
+					source.find("p.award").html('');
+				}
+				source.find("p.description").html(data[i]['description']);
 			}
 		});
 

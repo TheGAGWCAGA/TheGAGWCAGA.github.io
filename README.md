@@ -33,6 +33,9 @@ Once you have obtained games from both systems run
 
 This will clean up the input and add tags to each game based on the 6 main categories.
 
+## Awards
+To fill in the awards use `utils/fill_awards.rb`. Similarly make sure that the results align expectations, especially that the correct games have been targeted
+
 ## Post-processing
 
 You might need to go through the itch games to make sure they are downloaded properly. Release date especially can be problematic as itch's API doesn't tell you if a game is released already or not. You might also want to replace the description with something more meaningful.

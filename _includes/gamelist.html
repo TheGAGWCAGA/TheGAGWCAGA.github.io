@@ -6,6 +6,9 @@
     <header>
         <h3><a href="{{ game.url | relative_url }}">{{ game.title }}</a></h3>
     </header>
+    {% if game.award %}
+    <p style="text-align: center;"><b>🏆&nbsp;{{ game.award }}&nbsp;🏆</b></p>
+    {% endif %}
     <p>{{ game.description }}</p>
     </div>
     <br/>

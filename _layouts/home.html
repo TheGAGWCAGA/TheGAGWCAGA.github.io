@@ -73,7 +73,8 @@
 							<header>
 								<h3><a href="{{ game.url | relative_url}}" class="title">{{ game.title }}</a></h3>
 							</header>
-							<p>{{ game.description }}</p>
+							<p class="award">{% if game.award %}<b>🏆&nbsp;{{ game.award }}&nbsp;🏆</b>{% endif %}</p>
+							<p class="description">{{ game.description }}</p>
 						</article>
 						{% endfor %}
 						<article>
@@ -95,7 +96,7 @@
 						</p>
 					</header>
 				</section>
-			
+
 			{% include footer.html %}
 		</div>
 	</body>

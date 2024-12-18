@@ -1,8 +1,14 @@
 <div id="header">
     <div class="inner">
         <header>
+            {% if page.award %}
+            <h1>🏆 {{ page.award }} 🏆</h1>
+            {% elsif page.award_category %}
+            <h1>{{ page.award_category }} nominee</h1>
+            {% else %}
             <h1>Entry #{{page.steamid}}</h1>
-            <p>{{ page.genres | array_to_sentence_string }}</p>
+            {% endif %}
+            <p>{% if page.award_category %}{{ page.award_category }} / {% endif %}{{ page.genres | array_to_sentence_string }}</p>
         </header>
     </div>
 
